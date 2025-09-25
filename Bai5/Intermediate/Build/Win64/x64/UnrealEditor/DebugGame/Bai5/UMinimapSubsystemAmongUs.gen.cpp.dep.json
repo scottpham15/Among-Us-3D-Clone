@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\uminimapsubsystemamongus.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\bai5editor\\debuggame\\unrealed\\sharedpch.unrealed.project.nonoptimized.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\unrealeditor\\debuggame\\bai5\\definitions.bai5.h",
+            "d:\\amongushiu\\bai5\\source\\bai5\\uminimapsubsystemamongus.h",
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\uminimapsubsystemamongus.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Bai5.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bai5.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Bai5Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGameplayTags.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Bai5">
+      <UniqueIdentifier>{2C9C2C94-545F-3D87-A347-CBAB9DD84194}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Bai5\Bai5.Build.cs">
+      <Filter>Source\Bai5</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Bai5\Bai5.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\Bai5.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bai5\Bai5Character.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\Bai5Character.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bai5\Bai5GameMode.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\Bai5GameMode.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bai5\Bai5PlayerController.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\Bai5PlayerController.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bai5\DeadBody.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\DeadBody.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bai5\UMinimapSubsystemAmongUs.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\UMinimapSubsystemAmongUs.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Bai5\Wall.cpp">
+      <Filter>Source\Bai5</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Bai5\Wall.h">
+      <Filter>Source\Bai5</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bai5\Private">
+      <UniqueIdentifier>{2D7ECCC8-231B-3C12-AD0F-DA52DBD895E2}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bai5\Private\DemoAssetManager.cpp">
+      <Filter>Source\Bai5\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bai5\Private\Character">
+      <UniqueIdentifier>{FC061637-91AD-3FF8-88EC-C563226766FD}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bai5\Private\Character\DemoCharacterBase.cpp">
+      <Filter>Source\Bai5\Private\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bai5\Private\Character\GASController.cpp">
+      <Filter>Source\Bai5\Private\Character</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bai5\Private\Character\MyCanvas.cpp">
+      <Filter>Source\Bai5\Private\Character</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bai5\Private\Character\Abilities">
+      <UniqueIdentifier>{2409F813-8D33-36FD-B33F-A43492674A86}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bai5\Private\Character\Abilities\CharacterAbilitySystemComponent.cpp">
+      <Filter>Source\Bai5\Private\Character\Abilities</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\Bai5\Private\Character\Abilities\CharacterGameplayAbility.cpp">
+      <Filter>Source\Bai5\Private\Character\Abilities</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bai5\Private\Character\Abilities\AttributeSets">
+      <UniqueIdentifier>{5EBCA141-A9ED-3BE7-85F0-6D813C710439}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Bai5\Private\Character\Abilities\AttributeSets\CharacterAttributeSetBase.cpp">
+      <Filter>Source\Bai5\Private\Character\Abilities\AttributeSets</Filter>
+    </ClCompile>
+    <Filter Include="Source\Bai5\Public">
+      <UniqueIdentifier>{CB7A45D9-0586-3931-8FA1-40E9CFF00268}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bai5\Public\DemoAssetManager.h">
+      <Filter>Source\Bai5\Public</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bai5\Public\Character">
+      <UniqueIdentifier>{3B176660-667D-30A8-A308-3C189FCA1B82}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bai5\Public\Character\DemoCharacterBase.h">
+      <Filter>Source\Bai5\Public\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bai5\Public\Character\GASController.h">
+      <Filter>Source\Bai5\Public\Character</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bai5\Public\Character\MyCanvas.h">
+      <Filter>Source\Bai5\Public\Character</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bai5\Public\Character\Abilities">
+      <UniqueIdentifier>{E4838650-BC4D-35D2-B655-F3C15ADD9EBF}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bai5\Public\Character\Abilities\CharacterAbilitySystemComponent.h">
+      <Filter>Source\Bai5\Public\Character\Abilities</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\Bai5\Public\Character\Abilities\CharacterGameplayAbility.h">
+      <Filter>Source\Bai5\Public\Character\Abilities</Filter>
+    </ClInclude>
+    <Filter Include="Source\Bai5\Public\Character\Abilities\AttributeSets">
+      <UniqueIdentifier>{580C9646-59EE-3FDF-9511-FED1D4ADDF12}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\Bai5\Public\Character\Abilities\AttributeSets\CharacterAttributeSetBase.h">
+      <Filter>Source\Bai5\Public\Character\Abilities\AttributeSets</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

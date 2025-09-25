@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\gascontroller.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\bai5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bai5\\definitions.bai5.h",
+            "d:\\amongushiu\\bai5\\source\\bai5\\public\\character\\gascontroller.h",
+            "d:\\amongushiu\\bai5\\source\\bai5\\public\\character\\mycanvas.h",
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\mycanvas.generated.h",
+            "d:\\ue_5.4\\engine\\plugins\\enhancedinput\\source\\enhancedinput\\public\\inputactionvalue.h",
+            "d:\\ue_5.4\\engine\\plugins\\enhancedinput\\intermediate\\build\\win64\\unrealeditor\\inc\\enhancedinput\\uht\\inputactionvalue.generated.h",
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\gascontroller.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

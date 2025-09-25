@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\bai5gamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\bai5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bai5\\definitions.bai5.h",
+            "d:\\amongushiu\\bai5\\source\\bai5\\bai5gamemode.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "d:\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\unrealeditor\\inc\\bai5\\uht\\bai5gamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

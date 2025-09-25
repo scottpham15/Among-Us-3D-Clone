@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Bai5",
+			"Path": "..\\Source\\Bai5.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Bai5Editor",
+			"Path": "..\\Source\\Bai5Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

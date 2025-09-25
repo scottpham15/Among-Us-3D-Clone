@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\amongushiu\\bai5\\source\\bai5\\private\\character\\abilities\\characterabilitysystemcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\bai5editor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\amongushiu\\bai5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\bai5\\definitions.bai5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
