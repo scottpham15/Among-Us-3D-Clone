@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"D:\\AmongUsHiu\\Bai5\\Source\\Bai5\\Bai5.Build.cs",
-		"D:\\AmongUsHiu\\Bai5\\Source\\Bai5.Target.cs",
-		"D:\\AmongUsHiu\\Bai5\\Source\\Bai5Editor.Target.cs"
+		"D:\\Among-Us-3D-Clone\\Bai5\\Source\\Bai5\\Bai5.Build.cs",
+		"D:\\Among-Us-3D-Clone\\Bai5\\Source\\Bai5.Target.cs",
+		"D:\\Among-Us-3D-Clone\\Bai5\\Source\\Bai5Editor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }
